@@ -2,9 +2,9 @@
 
 resume from JSONresume the elegant, original repo 
 
-https://github.com/mudassir0909/jsonresume-theme-elegant
+https://github.com/JaredCubilla/jsonresume-theme-classy
 
-[Theme Preview](http://themes.jsonresume.org/elegant)
+[Theme Preview](http://canner-can.github.io/resume-theme-classy)
 
 ## License
 
