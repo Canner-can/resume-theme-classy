@@ -20,7 +20,13 @@
 	      "network": "Twitter",
 	      "username": "john",
 	      "url": "http://twitter.com/john"
-	    }]
+	    },
+	    {
+	    	      "network": "facebook",
+	    	      "username": "john",
+	    	      "url": "http://facebook.com/john"
+	    	    }
+	    ]
 	  },
 	  "work": [{
 	    "company": "公司",

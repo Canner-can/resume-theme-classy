@@ -29,9 +29,9 @@
 		<br>
 
 		<div id= "profiles">
-			{{#basics.profiles}}
+			{{#each basics.profiles}}
 			<p class= "profile"><a href= "{{url}}" target= "_blank" class= "profile">{{network}}</a></p>
-			{{/basics.profiles}}
+			{{/each}}
 		</div>		
 	</div>
 	<div class= "main">
